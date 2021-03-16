@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,iptvtools_2
+#EXTINF:-1,rtvmurcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1,iptvtools_15
 http://ventdelnord.tv:8080/escala/directe.m3u8
