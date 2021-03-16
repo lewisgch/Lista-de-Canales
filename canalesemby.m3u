@@ -17,51 +17,51 @@ http://video.telesafor.com/hls/video_low.m3u8
 http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1,iptvtools_44
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
-#EXTINF:-1,iptvtools_45
+#EXTINF:-1,Canal 6 Deportes
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
-#EXTINF:-1,iptvtools_46
+#EXTINF:-1,Telediario
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 #EXTINF:-1,telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
-#EXTINF:-13maxhd
+#EXTINF:-1,13 Max DH
 http://coninfo.net:1935/13maxhd/live_720p/.m3u8
-#EXTINF:-1,panel.dattalive
+#EXTINF:-1,Multivision
 http://panel.dattalive.com:1935/8250/8250/.m3u8
-#EXTINF:-1,canaloncelive
+#EXTINF:-1,Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
-#EXTINF:-1,tecnoxia
+#EXTINF:-1,Grupo Formula
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1,unilivemtveu
+#EXTINF:-1, MTV NO
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,unlimited1
+#EXTINF:-1, CarolinaTV
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:-1,vimeocdn
+#EXTINF:-1,Vimeo CDN
 https://i.vimeocdn.com/portrait/8846221_300x300
-#EXTINF:-1,iptvtools_73
+#EXTINF:-1,Canal 10 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,iptvtools_74
+#EXTINF:-1,Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
-#EXTINF:-1,telecentro
+#EXTINF:-1,Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
-#EXTINF:-1,iptvtools_78
+#EXTINF:-1, UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1,iptvtools_79
+#EXTINF:-1, UMAG TV Digital
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
-#EXTINF:-1,iptvtools_80
+#EXTINF:-1, ExtremaTV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,iptvtools_81
+#EXTINF:-1, WOWTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:-1,iptvtools_84
+#EXTINF:-1, Examor
 http://streamingcws20.com:1935/examor/videoexamor/.m3u8
-#EXTINF:-1,iptvtools_86
+#EXTINF:-1,Teleridmo
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1,iptvtools_115
+#EXTINF:-1, CMCTV
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-#EXTINF:-1,iptvtools_123
+#EXTINF:-1, Milenio Center
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1,iptvtools_128
+#EXTINF:-1, CBS NEWS HD
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1,iptvtools_141
+#EXTINF:-1, bloomberg
 http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
 #EXTINF:-1,iptvtools_153
 http://livees.cgtn.com/1000e/prog_index.m3u8
