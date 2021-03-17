@@ -108,78 +108,96 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1,iptvtools_220
 http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
 #EXTINF:-1,iptvtools_221
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-#EXTINF:-1,iptvtools_227
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1,iptvtools_231
+#EXTM3U
+#EXTINF:-1,RTV Murci
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1,ventdelnord
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1,etbvnogeo
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1,lancelot television
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1,lebrijatv2
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-telemadridhls
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1,telesafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1,Stream1
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1,iptvtools_44
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1,Canal 6 Deportes
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1,Telediario
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1,telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1,13 Max DH
+http://coninfo.net:1935/13maxhd/live_720p/.m3u8
+#EXTINF:-1,Multivision
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:-1,Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
+#EXTINF:-1,Grupo Formula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1, MTV NO
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1, CarolinaTV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1,Vimeo CDN
+https://i.vimeocdn.com/portrait/8846221_300x300
+#EXTINF:-1,Canal 10 
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+#EXTINF:-1,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+#EXTINF:-1, UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1, UMAG TV Digital
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:-1, ExtremaTV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1, WOWTV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1, Examor
+http://streamingcws20.com:1935/examor/videoexamor/.m3u8
+#EXTINF:-1,Teleridmo
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1, CMCTV
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1, Milenio Center
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1, CBS NEWS HD
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1, bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+#EXTINF:-1, CGTN Español
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1, RETROTV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
+#EXTINF:-1, radiom2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+#EXTINF:-1, WOWTV http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1, CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1, HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1, Portalfoxmix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1, litustv
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:-1,iptvtools_235
-http://184.154.28.210:1935/canal4/canal4/live.m3u8
-#EXTINF:-1,iptvtools_237
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1,iptvtools_238
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1,iptvtools_241
-http://192.99.38.174:1935/patbolivia/patsantacruz/playlist.m3u8
-#EXTINF:-1,iptvtools_242
-http://192.99.38.174:1935/patbolivia/patlapaz/playlist.m3u8
-#EXTINF:-1,iptvtools_243
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-#EXTINF:-1,iptvtools_245
-http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
-#EXTINF:-1,iptvtools_248
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_250
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_251
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_252
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_253
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_267
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1,iptvtools_269
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_273
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_277
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_280
-http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?ChannelsON
-#EXTINF:-1,iptvtools_307
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_313
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1,iptvtools_317
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1,iptvtools_320
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1,iptvtools_322
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1,iptvtools_324
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:-1,iptvtools_325
+#EXTINF:-1, Lamegamundial
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1,iptvtools_327
-http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
-#EXTINF:-1,iptvtools_331
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1,iptvtools_333
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_344
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1,iptvtools_345
+#EXTINF:-1, BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1,iptvtools_351
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1,iptvtools_352
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1,iptvtools_353
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1,iptvtools_354
+#EXTINF:-1,C10
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1,iptvtools_360
+#EXTINF:-1,Hechos Ecuador
 http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1,iptvtools_365
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
