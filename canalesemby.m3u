@@ -92,54 +92,54 @@ http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 #EXTINF:-1, Canal 4 San Juan
 http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w2035254850.m3u8
-#Name: Ame Cana l47
-http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?PlaylistM3UCL 
-#Name: Ame Cana l47
-https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL 
-#Name: Bonao TV
-https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8?PlaylistM3UCL 
-#Name: Global TV
+http://www.m3u.cl/playlist/DO.m3u
+https://iptv-org.github.io/iptv/countries/do.m3u
+#EXTINF:-1 tvg-id="108934" tvg-name="Amé" tvg-logo="https://lh3.googleusercontent.com/-Wm0tIirwAaI/XzgSgfucd3I/AAAAAAAA4R4/P8FwD68fC00xVm39i-qNZewMWAqG2Be2wCK8BGAsYHg/s0/2020-08-15.jpg", Amé
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108995" tvg-name="Bonao TV" tvg-logo="https://lh3.googleusercontent.com/-SMZzVkRBPgo/XzgTrVaVKKI/AAAAAAAA4SQ/lSI2HspsiS8UcIAYkCAS5loSKGdfQDZ6ACK8BGAsYHg/s0/2020-08-15.jpg", Bonao TV
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="108983" tvg-name="Hilando Fino" tvg-logo="https://lh3.googleusercontent.com/-MUJsvP4LUEE/XzgQHZNiNdI/AAAAAAAA4Rc/iiRRQp0BCX00MnMJZsfR2E_bLhyN6gUAACK8BGAsYHg/s0/2020-08-15.png", Hilando Fino
+https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108958" tvg-name="Megavision" tvg-logo="https://lh3.googleusercontent.com/-jxMdnwq3fxw/XzgSNxgvHSI/AAAAAAAA4Rw/eev6AGnJag8MDN1kt76lQwfraDPAIsnDACK8BGAsYHg/s0/2020-08-15.png", Megavision
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL 
-#Name: Megavision
-https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8?PlaylistM3UCL 
-#Name: Musavision
-http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?PlaylistM3UCL 
-#Name: Onda TV
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL 
-#Name: ReadyHD
-https://ss6.domint.net:2996/rtv_str/rvision/playlist.m3u8?PlaylistM3UCL 
-#Name: Resplandor Vision 
-https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL 
-#Name: RNN Canal 127
-http://tv.romanatv42.com/hls/live.m3u8?PlaylistM3UCL #Name: Romana TV
-https://ss8.domint.net:3128/stv_str/tv55/master.m3u8?PlaylistM3UCL 
-#Name: SuperTV55
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8?PlaylistM3UCL 
-#Name: Telecanal
-https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL 
-#Name: Telecibao
-http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8?PlaylistM3UCL 
-#Name: Telefuruto
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8?PlaylistM3UCL 
-#Name: Telemilenio
-http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL 
-#Name: telenord Canal 8
-http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL 
-#Name: telenord Canal 10
-http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?PlaylistM3UCL 
-#Name: Teleunion
-http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL 
-#Name: Television Del Este	
-https://ss8.domint.net:3126/tni_str/tni51/playlist.m3u8?PlaylistM3UCL 
-#Name: TNI Canal 51
-https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8?PlaylistM3UCL 
-#Name: TV Plata
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8?PlaylistM3UCL 
-#Name: TVS
-http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?PlaylistM3UCL 
-#Name: Vallevision
-
-
-
+#EXTINF:-1 tvg-id="108956" tvg-name="Onda TV" tvg-logo="https://lh3.googleusercontent.com/-tfgvfH5WigA/XzgYP6_PPkI/AAAAAAAA4UM/NK7IQCeGzv8VwW2pjLty7GRAxjU3jhxeACK8BGAsYHg/s0/2020-08-15.png", Onda TV
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108955" tvg-name="Orbit TV" tvg-logo="https://lh3.googleusercontent.com/-R-fEjuPsEu0/XzgaNO5ztWI/AAAAAAAA4UY/PmFUug8OPCM0FBqUnW8gI43p_A053ZYUACK8BGAsYHg/s0/2020-08-15.jpg", Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108953" tvg-name="Ready TV" tvg-logo="https://lh3.googleusercontent.com/-0WEp8Wwui4Q/Xzgal1m0fzI/AAAAAAAA4Uk/rYMFLqx6jsE342dqmqaCzFKNyfygiuIzQCK8BGAsYHg/s0/2020-08-15.png", Ready TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108994" tvg-name="Resplandor Vision" tvg-logo="https://lh3.googleusercontent.com/-BJI_KYaAIak/XzgbWkghNkI/AAAAAAAA4Us/gi8o6-Dt68wF3dZeRdD_TeFIdjaq77MVgCK8BGAsYHg/s0/2020-08-15.jpg", Resplandor Vision
+https://ss6.domint.net:2996/rtv_str/rvision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108975" tvg-name="RNN" tvg-logo="https://lh3.googleusercontent.com/-jth7QtCbGzk/XzgbeB2zxhI/AAAAAAAA4Uw/uSoJpwnWpyw_rQfYXhM89c_9lPfHKydvACK8BGAsYHg/s0/2020-08-15.png", RNN
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108952" tvg-name="Romana TV" tvg-logo="https://lh3.googleusercontent.com/-ODE5TSYEfC4/Xzgbjk1oJzI/AAAAAAAA4U0/-Fxv0oapcR0wViS7zHK7AnCr8mSOEeqEgCK8BGAsYHg/s0/2020-08-15.jpg", Romana TV
+http://tv.romanatv42.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108951" tvg-name="Super TV 55" tvg-logo="https://lh3.googleusercontent.com/-uMrGa8Kftec/XzgbxQoDW-I/AAAAAAAA4U8/LAvaew4BM_AxbaM3I3hsHoTs1haxibxZgCK8BGAsYHg/s0/2020-08-15.jpg", Super TV 55
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108950" tvg-name="Telecanal 28" tvg-logo="https://lh3.googleusercontent.com/-D9rpmxbwhO8/XzgcGOwfAUI/AAAAAAAA4VI/xgju0xICu_cmO620DoxlajfYrXwVPoEDwCK8BGAsYHg/s0/2020-08-15.jpg", Telecanal 28
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108973" tvg-name="Telecibao" tvg-logo="https://lh3.googleusercontent.com/-SNcmUEQMH_8/XzgcTFn6F_I/AAAAAAAA4VQ/uLAvXE8GMFInptHJzAYr3beBjiqc5ABAwCK8BGAsYHg/s0/2020-08-15.jpg", Telecibao
+https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108948" tvg-name="Telefuturo" tvg-logo="https://lh3.googleusercontent.com/-ACFA13BJhnY/XzgcYgpqcDI/AAAAAAAA4VU/H6AUDfZwoHENINYP6Cw5YkotykUBJdykQCK8BGAsYHg/s0/2020-08-15.png", Telefuturo
+http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108947" tvg-name="Telemilenio" tvg-logo="https://lh3.googleusercontent.com/-KHspoxJrbmA/Xzgces4V4PI/AAAAAAAA4VY/1vwbHhjTS5EV8JmV5EXQm2giqFCUaPlBQCK8BGAsYHg/s0/2020-08-15.png", Telemilenio
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108946" tvg-name="Telenord 8" tvg-logo="https://lh3.googleusercontent.com/-P4P3Fo23ruc/XzgcmLYJ46I/AAAAAAAA4Vc/0PbZbLJIjckXdsj_Wca-n7D7QS4GCEiYwCK8BGAsYHg/s0/2020-08-15.jpg", Telenord 8
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108945" tvg-name="Telenord 10" tvg-logo="https://lh3.googleusercontent.com/-w36Bp5Kua6w/Xzgcs8BkqPI/AAAAAAAA4Vg/delKewJS1gwLtPPQZDSb2q7ZWBwz4mfBACK8BGAsYHg/s0/2020-08-15.png", Telenord 10
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108990" tvg-name="Teleunion" tvg-logo="https://lh3.googleusercontent.com/-0tQ6kWVCb1U/XzgdojrTiaI/AAAAAAAA4V4/DDHVWnS1yiMpiYqfJPZN3AEPs2SouEzcwCK8BGAsYHg/s0/2020-08-15.jpg", Teleunion
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108940" tvg-name="Televisión del Este" tvg-logo="https://lh3.googleusercontent.com/-KTkAN2D6aBg/XzgeAkRU0XI/AAAAAAAA4WI/oO5KUB-W-6EMsCALKbOGQmS2EfuDvarUwCK8BGAsYHg/s0/2020-08-15.png", Televisión del Este
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="108982" tvg-name="TNI 51" tvg-logo="https://lh3.googleusercontent.com/-XrMUdkyPx10/XzgeHRC_4lI/AAAAAAAA4WM/OY0kXlB-fpMkogRS1KhC-pPpqPPyggH6ACK8BGAsYHg/s0/2020-08-15.jpg", TNI 51
+https://ss8.domint.net:3126/tni_str/tni51/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108938" tvg-name="TV Plata" tvg-logo="https://lh3.googleusercontent.com/-P7fhXDShrsg/XzgeXcKTOLI/AAAAAAAA4WY/o1eUo8UIoLQLe7kbztN1lUIoY_C0E8NAQCK8BGAsYHg/s0/2020-08-15.jpg", TV Plata
+https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108937" tvg-name="TVS TV" tvg-logo="https://lh3.googleusercontent.com/-ki8jqcwmGP0/Xzgef3ebeoI/AAAAAAAA4Wc/Ulbicz-Ye8sSPGlzK7DxMOomCLnxa9tOgCK8BGAsYHg/s0/2020-08-15.png", TVS TV
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="108936" tvg-name="Vallevisión" tvg-logo="https://lh3.googleusercontent.com/-LJDxg-Z8Mtk/XzgeoUw6_aI/AAAAAAAA4Wg/HsIOdj5D9mYncbrV3kpb-1bCkPpSdeQJACK8BGAsYHg/s0/2020-08-15.png", Vallevisión
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?PlaylistM3UCL
 
 
