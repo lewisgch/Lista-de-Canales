@@ -92,29 +92,51 @@ http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 #EXTINF:-1, Canal 4 San Juan
 http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w2035254850.m3u8
-http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?PlaylistM3UCL #Name: Ame Cana l47
-https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL #Name: Bonao TV
-https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8?PlaylistM3UCL #Name: Global TV
-http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL #Name: Megavision
-https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8?PlaylistM3UCL #Name: Musavision
-http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?PlaylistM3UCL #Name: Onda TV
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL #Name: ReadyHD
-https://ss6.domint.net:2996/rtv_str/rvision/playlist.m3u8?PlaylistM3UCL #Name: Resplandor Vision 
-https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL #Name: RNN Canal 127
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?PlaylistM3UCL 
+#Name: Ame Cana l47
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL 
+#Name: Bonao TV
+https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8?PlaylistM3UCL 
+#Name: Global TV
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL 
+#Name: Megavision
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8?PlaylistM3UCL 
+#Name: Musavision
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?PlaylistM3UCL 
+#Name: Onda TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?PlaylistM3UCL 
+#Name: ReadyHD
+https://ss6.domint.net:2996/rtv_str/rvision/playlist.m3u8?PlaylistM3UCL 
+#Name: Resplandor Vision 
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8?PlaylistM3UCL 
+#Name: RNN Canal 127
 http://tv.romanatv42.com/hls/live.m3u8?PlaylistM3UCL #Name: Romana TV
-https://ss8.domint.net:3128/stv_str/tv55/master.m3u8?PlaylistM3UCL #Name: SuperTV55
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8?PlaylistM3UCL #Name: Telecanal
-https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL #Name: Telecibao
-http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8?PlaylistM3UCL #Name: Telefuruto
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8?PlaylistM3UCL #Name: Telemilenio
-http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL #Name: telenord Canal 8
-http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL #Name: telenord Canal 10
-http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?PlaylistM3UCL #Name: Teleunion
-http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL #Name: Television Del Este	
-https://ss8.domint.net:3126/tni_str/tni51/playlist.m3u8?PlaylistM3UCL #Name: TNI Canal 51
-https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8?PlaylistM3UCL #Name: TV Plata
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8?PlaylistM3UCL #Name: TVS
-http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?PlaylistM3UCL #Name: Vallevision
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8?PlaylistM3UCL 
+#Name: SuperTV55
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8?PlaylistM3UCL 
+#Name: Telecanal
+https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL 
+#Name: Telecibao
+http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8?PlaylistM3UCL 
+#Name: Telefuruto
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8?PlaylistM3UCL 
+#Name: Telemilenio
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL 
+#Name: telenord Canal 8
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL 
+#Name: telenord Canal 10
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?PlaylistM3UCL 
+#Name: Teleunion
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL 
+#Name: Television Del Este	
+https://ss8.domint.net:3126/tni_str/tni51/playlist.m3u8?PlaylistM3UCL 
+#Name: TNI Canal 51
+https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8?PlaylistM3UCL 
+#Name: TV Plata
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8?PlaylistM3UCL 
+#Name: TVS
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?PlaylistM3UCL 
+#Name: Vallevision
 
 
 
